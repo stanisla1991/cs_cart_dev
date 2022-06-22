@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::a_home_page_banner"
+msgid "AngryLab slider"
+msgstr "Слайдер для главной"
+
+msgctxt "Addons::description::a_home_page_banner"
+msgid "AngryLab description"
+msgstr "AngryLab подключение слайдера"
+
+msgctxt "Languages::a_home_page_banner"
+msgid "AngryLab Select Slider"
+msgstr "Выбор слайдера для главной"
+
+msgctxt "Languages::block_a_home_page_banner_mod"
+msgid "Felshon Select Slider Block"
+msgstr "Felshon слайдер"
+
+msgctxt "Languages::a_home_page_banner_mod"
+msgid "Felshon Select Slider Block"
+msgstr "Felshon слайдер №1"
